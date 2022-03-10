@@ -2,7 +2,7 @@
 
 <!--Banner session-->
 <p align="center">
-<img src="./photo/Mono.png" alt="DIO" tittle="Digital Innovation One">
+<img src="file:///C:/workspace/DesafiodaDIO/Mono.png" alt="DIO" tittle="Digital Innovation One">
 </p>
 
 <!--Banner session-->
